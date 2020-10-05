@@ -1,0 +1,3 @@
+{
+    "aggressiveCompression": "true" // 使用有损压缩 true|false
+}
